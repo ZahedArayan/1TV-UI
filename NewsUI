@@ -1,0 +1,1666 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+    <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>1TVNews.af | One of Afghanistan &#039;s Leading Channel</title>
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="https://1tvnews.af/xmlrpc.php">
+        <meta property="og:image" content=""/>
+        <meta property="og:image:width" content="300"/>
+        <meta property="og:image:height" content="300"/>
+        <meta property="og:title" content="1TVNews.af"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:description" content="One of Afghanistan&#039;s Leading Channel"/>
+        <meta property="og:url" content="https://1tvnews.af/"/>
+        <meta property="og:site_name" content="1TVNews.af"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="shortcut icon" href=""/>
+        <link rel="apple-touch-icon" href="https://1tvnews.af/wp-content/themes/goodnews5/apple-touch-icon-precomposed.png"/>
+        <link rel="pingback" href="https://1tvnews.af/xmlrpc.php"/>
+        <!--[if lt IE 9]>
+	<script src="https://1tvnews.af/wp-content/themes/goodnews5/framework/helpers/js/html5.js"></script>
+	<script src="https://1tvnews.af/wp-content/themes/goodnews5/framework/helpers/js/IE9.js"></script>
+	<![endif]-->
+        <meta name='robots' content='max-image-preview:large'/>
+        <link rel="alternate" href="https://1tvnews.af/" hreflang="en"/>
+        <link rel="alternate" href="https://1tvnews.af/fa/%d8%b5%d9%81%d8%ad%d9%87-%d9%86%d8%ae%d8%b3%d8%aa/" hreflang="fa"/>
+        <link rel="alternate" href="https://1tvnews.af/ps/%da%a9%d9%88%d8%b1%d9%be%d8%a7%da%bc%d9%87/" hreflang="ps"/>
+        <link rel="alternate" type="application/rss+xml" title="1TVNews.af &raquo; Feed" href="https://1tvnews.af/feed/"/>
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            window._wpemojiSettings = {
+                "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
+                "ext": ".png",
+                "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
+                "svgExt": ".svg",
+                "source": {
+                    "concatemoji": "https:\/\/1tvnews.af\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"
+                }
+            };
+            /*! This file is auto-generated */
+            !function(i, n) {
+                var o, s, e;
+                function c(e) {
+                    try {
+                        var t = {
+                            supportTests: e,
+                            timestamp: (new Date).valueOf()
+                        };
+                        sessionStorage.setItem(o, JSON.stringify(t))
+                    } catch (e) {}
+                }
+                function p(e, t, n) {
+                    e.clearRect(0, 0, e.canvas.width, e.canvas.height),
+                    e.fillText(t, 0, 0);
+                    var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data)
+                      , r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height),
+                    e.fillText(n, 0, 0),
+                    new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data));
+                    return t.every(function(e, t) {
+                        return e === r[t]
+                    })
+                }
+                function u(e, t, n) {
+                    switch (t) {
+                    case "flag":
+                        return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");
+                    case "emoji":
+                        return !n(e, "\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff", "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")
+                    }
+                    return !1
+                }
+                function f(e, t, n) {
+                    var r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300,150) : i.createElement("canvas")
+                      , a = r.getContext("2d", {
+                        willReadFrequently: !0
+                    })
+                      , o = (a.textBaseline = "top",
+                    a.font = "600 32px Arial",
+                    {});
+                    return e.forEach(function(e) {
+                        o[e] = t(a, e, n)
+                    }),
+                    o
+                }
+                function t(e) {
+                    var t = i.createElement("script");
+                    t.src = e,
+                    t.defer = !0,
+                    i.head.appendChild(t)
+                }
+                "undefined" != typeof Promise && (o = "wpEmojiSettingsSupports",
+                s = ["flag", "emoji"],
+                n.supports = {
+                    everything: !0,
+                    everythingExceptFlag: !0
+                },
+                e = new Promise(function(e) {
+                    i.addEventListener("DOMContentLoaded", e, {
+                        once: !0
+                    })
+                }
+                ),
+                new Promise(function(t) {
+                    var n = function() {
+                        try {
+                            var e = JSON.parse(sessionStorage.getItem(o));
+                            if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests)
+                                return e.supportTests
+                        } catch (e) {}
+                        return null
+                    }();
+                    if (!n) {
+                        if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob)
+                            try {
+                                var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), p.toString()].join(",") + "));"
+                                  , r = new Blob([e],{
+                                    type: "text/javascript"
+                                })
+                                  , a = new Worker(URL.createObjectURL(r),{
+                                    name: "wpTestEmojiSupports"
+                                });
+                                return void (a.onmessage = function(e) {
+                                    c(n = e.data),
+                                    a.terminate(),
+                                    t(n)
+                                }
+                                )
+                            } catch (e) {}
+                        c(n = f(s, u, p))
+                    }
+                    t(n)
+                }
+                ).then(function(e) {
+                    for (var t in e)
+                        n.supports[t] = e[t],
+                        n.supports.everything = n.supports.everything && n.supports[t],
+                        "flag" !== t && (n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && n.supports[t]);
+                    n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag,
+                    n.DOMReady = !1,
+                    n.readyCallback = function() {
+                        n.DOMReady = !0
+                    }
+                }).then(function() {
+                    return e
+                }).then(function() {
+                    var e;
+                    n.supports.everything || (n.readyCallback(),
+                    (e = n.source || {}).concatemoji ? t(e.concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji),
+                    t(e.wpemoji)))
+                }))
+            }((window,
+            document), window._wpemojiSettings);
+            /* ]]> */
+        </script>
+        <style id='wp-emoji-styles-inline-css' type='text/css'>
+            img.wp-smiley, img.emoji {
+                display: inline !important;
+                border: none !important;
+                box-shadow: none !important;
+                height: 1em !important;
+                width: 1em !important;
+                margin: 0 0.07em !important;
+                vertical-align: -0.1em !important;
+                background: none !important;
+                padding: 0 !important;
+            }
+        </style>
+        <link rel='stylesheet' id='wp-block-library-css' href='https://1tvnews.af/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all'/>
+        <style id='classic-theme-styles-inline-css' type='text/css'>
+            /*! This file is auto-generated */
+            .wp-block-button__link {
+                color: #fff;
+                background-color: #32373c;
+                border-radius: 9999px;
+                box-shadow: none;
+                text-decoration: none;
+                padding: calc(.667em + 2px) calc(1.333em + 2px);
+                font-size: 1.125em
+            }
+
+            .wp-block-file__button {
+                background: #32373c;
+                color: #fff;
+                text-decoration: none
+            }
+        </style>
+        <style id='global-styles-inline-css' type='text/css'>
+            body {
+                --wp--preset--color--black: #000000;
+                --wp--preset--color--cyan-bluish-gray: #abb8c3;
+                --wp--preset--color--white: #ffffff;
+                --wp--preset--color--pale-pink: #f78da7;
+                --wp--preset--color--vivid-red: #cf2e2e;
+                --wp--preset--color--luminous-vivid-orange: #ff6900;
+                --wp--preset--color--luminous-vivid-amber: #fcb900;
+                --wp--preset--color--light-green-cyan: #7bdcb5;
+                --wp--preset--color--vivid-green-cyan: #00d084;
+                --wp--preset--color--pale-cyan-blue: #8ed1fc;
+                --wp--preset--color--vivid-cyan-blue: #0693e3;
+                --wp--preset--color--vivid-purple: #9b51e0;
+                --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
+                --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
+                --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);
+                --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);
+                --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);
+                --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+                --wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
+                --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);
+                --wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);
+                --wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);
+                --wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);
+                --wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);
+                --wp--preset--font-size--small: 13px;
+                --wp--preset--font-size--medium: 20px;
+                --wp--preset--font-size--large: 36px;
+                --wp--preset--font-size--x-large: 42px;
+                --wp--preset--spacing--20: 0.44rem;
+                --wp--preset--spacing--30: 0.67rem;
+                --wp--preset--spacing--40: 1rem;
+                --wp--preset--spacing--50: 1.5rem;
+                --wp--preset--spacing--60: 2.25rem;
+                --wp--preset--spacing--70: 3.38rem;
+                --wp--preset--spacing--80: 5.06rem;
+                --wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
+                --wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
+                --wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
+                --wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
+                --wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
+            }
+
+            :where(.is-layout-flex) {
+                gap: 0.5em;
+            }
+
+            :where(.is-layout-grid) {
+                gap: 0.5em;
+            }
+
+            body .is-layout-flow > .alignleft {
+                float: left;
+                margin-inline-start: 0;margin-inline-end: 2em;}
+
+            body .is-layout-flow > .alignright {
+                float: right;
+                margin-inline-start: 2em;margin-inline-end: 0;}
+
+            body .is-layout-flow > .aligncenter {
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            body .is-layout-constrained > .alignleft {
+                float: left;
+                margin-inline-start: 0;margin-inline-end: 2em;}
+
+            body .is-layout-constrained > .alignright {
+                float: right;
+                margin-inline-start: 2em;margin-inline-end: 0;}
+
+            body .is-layout-constrained > .aligncenter {
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+                max-width: var(--wp--style--global--content-size);
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            body .is-layout-constrained > .alignwide {
+                max-width: var(--wp--style--global--wide-size);
+            }
+
+            body .is-layout-flex {
+                display: flex;
+            }
+
+            body .is-layout-flex {
+                flex-wrap: wrap;
+                align-items: center;
+            }
+
+            body .is-layout-flex > * {
+                margin: 0;
+            }
+
+            body .is-layout-grid {
+                display: grid;
+            }
+
+            body .is-layout-grid > * {
+                margin: 0;
+            }
+
+            :where(.wp-block-columns.is-layout-flex) {
+                gap: 2em;
+            }
+
+            :where(.wp-block-columns.is-layout-grid) {
+                gap: 2em;
+            }
+
+            :where(.wp-block-post-template.is-layout-flex) {
+                gap: 1.25em;
+            }
+
+            :where(.wp-block-post-template.is-layout-grid) {
+                gap: 1.25em;
+            }
+
+            .has-black-color {
+                color: var(--wp--preset--color--black) !important;
+            }
+
+            .has-cyan-bluish-gray-color {
+                color: var(--wp--preset--color--cyan-bluish-gray) !important;
+            }
+
+            .has-white-color {
+                color: var(--wp--preset--color--white) !important;
+            }
+
+            .has-pale-pink-color {
+                color: var(--wp--preset--color--pale-pink) !important;
+            }
+
+            .has-vivid-red-color {
+                color: var(--wp--preset--color--vivid-red) !important;
+            }
+
+            .has-luminous-vivid-orange-color {
+                color: var(--wp--preset--color--luminous-vivid-orange) !important;
+            }
+
+            .has-luminous-vivid-amber-color {
+                color: var(--wp--preset--color--luminous-vivid-amber) !important;
+            }
+
+            .has-light-green-cyan-color {
+                color: var(--wp--preset--color--light-green-cyan) !important;
+            }
+
+            .has-vivid-green-cyan-color {
+                color: var(--wp--preset--color--vivid-green-cyan) !important;
+            }
+
+            .has-pale-cyan-blue-color {
+                color: var(--wp--preset--color--pale-cyan-blue) !important;
+            }
+
+            .has-vivid-cyan-blue-color {
+                color: var(--wp--preset--color--vivid-cyan-blue) !important;
+            }
+
+            .has-vivid-purple-color {
+                color: var(--wp--preset--color--vivid-purple) !important;
+            }
+
+            .has-black-background-color {
+                background-color: var(--wp--preset--color--black) !important;
+            }
+
+            .has-cyan-bluish-gray-background-color {
+                background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+            }
+
+            .has-white-background-color {
+                background-color: var(--wp--preset--color--white) !important;
+            }
+
+            .has-pale-pink-background-color {
+                background-color: var(--wp--preset--color--pale-pink) !important;
+            }
+
+            .has-vivid-red-background-color {
+                background-color: var(--wp--preset--color--vivid-red) !important;
+            }
+
+            .has-luminous-vivid-orange-background-color {
+                background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+            }
+
+            .has-luminous-vivid-amber-background-color {
+                background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+            }
+
+            .has-light-green-cyan-background-color {
+                background-color: var(--wp--preset--color--light-green-cyan) !important;
+            }
+
+            .has-vivid-green-cyan-background-color {
+                background-color: var(--wp--preset--color--vivid-green-cyan) !important;
+            }
+
+            .has-pale-cyan-blue-background-color {
+                background-color: var(--wp--preset--color--pale-cyan-blue) !important;
+            }
+
+            .has-vivid-cyan-blue-background-color {
+                background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+            }
+
+            .has-vivid-purple-background-color {
+                background-color: var(--wp--preset--color--vivid-purple) !important;
+            }
+
+            .has-black-border-color {
+                border-color: var(--wp--preset--color--black) !important;
+            }
+
+            .has-cyan-bluish-gray-border-color {
+                border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+            }
+
+            .has-white-border-color {
+                border-color: var(--wp--preset--color--white) !important;
+            }
+
+            .has-pale-pink-border-color {
+                border-color: var(--wp--preset--color--pale-pink) !important;
+            }
+
+            .has-vivid-red-border-color {
+                border-color: var(--wp--preset--color--vivid-red) !important;
+            }
+
+            .has-luminous-vivid-orange-border-color {
+                border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+            }
+
+            .has-luminous-vivid-amber-border-color {
+                border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+            }
+
+            .has-light-green-cyan-border-color {
+                border-color: var(--wp--preset--color--light-green-cyan) !important;
+            }
+
+            .has-vivid-green-cyan-border-color {
+                border-color: var(--wp--preset--color--vivid-green-cyan) !important;
+            }
+
+            .has-pale-cyan-blue-border-color {
+                border-color: var(--wp--preset--color--pale-cyan-blue) !important;
+            }
+
+            .has-vivid-cyan-blue-border-color {
+                border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+            }
+
+            .has-vivid-purple-border-color {
+                border-color: var(--wp--preset--color--vivid-purple) !important;
+            }
+
+            .has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+                background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
+            }
+
+            .has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+                background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
+            }
+
+            .has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+                background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
+            }
+
+            .has-luminous-vivid-orange-to-vivid-red-gradient-background {
+                background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
+            }
+
+            .has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+                background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
+            }
+
+            .has-cool-to-warm-spectrum-gradient-background {
+                background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
+            }
+
+            .has-blush-light-purple-gradient-background {
+                background: var(--wp--preset--gradient--blush-light-purple) !important;
+            }
+
+            .has-blush-bordeaux-gradient-background {
+                background: var(--wp--preset--gradient--blush-bordeaux) !important;
+            }
+
+            .has-luminous-dusk-gradient-background {
+                background: var(--wp--preset--gradient--luminous-dusk) !important;
+            }
+
+            .has-pale-ocean-gradient-background {
+                background: var(--wp--preset--gradient--pale-ocean) !important;
+            }
+
+            .has-electric-grass-gradient-background {
+                background: var(--wp--preset--gradient--electric-grass) !important;
+            }
+
+            .has-midnight-gradient-background {
+                background: var(--wp--preset--gradient--midnight) !important;
+            }
+
+            .has-small-font-size {
+                font-size: var(--wp--preset--font-size--small) !important;
+            }
+
+            .has-medium-font-size {
+                font-size: var(--wp--preset--font-size--medium) !important;
+            }
+
+            .has-large-font-size {
+                font-size: var(--wp--preset--font-size--large) !important;
+            }
+
+            .has-x-large-font-size {
+                font-size: var(--wp--preset--font-size--x-large) !important;
+            }
+
+            .wp-block-navigation a:where(:not(.wp-element-button)) {
+                color: inherit;
+            }
+
+            :where(.wp-block-post-template.is-layout-flex) {
+                gap: 1.25em;
+            }
+
+            :where(.wp-block-post-template.is-layout-grid) {
+                gap: 1.25em;
+            }
+
+            :where(.wp-block-columns.is-layout-flex) {
+                gap: 2em;
+            }
+
+            :where(.wp-block-columns.is-layout-grid) {
+                gap: 2em;
+            }
+
+            .wp-block-pullquote {
+                font-size: 1.5em;
+                line-height: 1.6;
+            }
+        </style>
+        <link rel='stylesheet' id='contact-form-7-css' href='https://1tvnews.af/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3' type='text/css' media='all'/>
+        <link rel='stylesheet' id='plugins-css' href='https://1tvnews.af/wp-content/themes/goodnews5/css/plugins.css?ver=6.4.3' type='text/css' media='all'/>
+        <link rel='stylesheet' id='main-css' href='https://1tvnews.af/wp-content/themes/goodnews5/css/main.css?ver=6.4.3' type='text/css' media='all'/>
+        <link rel='stylesheet' id='responsive-css' href='https://1tvnews.af/wp-content/themes/goodnews5/css/media.css?ver=6.4.3' type='text/css' media='all'/>
+        <link rel='stylesheet' id='style-css' href='https://1tvnews.af/wp-content/themes/goodnews5/style.css?ver=6.4.3' type='text/css' media='all'/>
+        <link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css' href='//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=6.4.3' type='text/css' media='all'/>
+        <link rel='stylesheet' id='black-style-css' href='https://1tvnews.af/wp-content/themes/goodnews5/css/blue.css?ver=6.4.3' type='text/css' media='all'/>
+        <script type="text/javascript" src="https://1tvnews.af/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+        <script type="text/javascript" src="https://1tvnews.af/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+        <link rel="https://api.w.org/" href="https://1tvnews.af/wp-json/"/>
+        <link rel="alternate" type="application/json" href="https://1tvnews.af/wp-json/wp/v2/pages/4277"/>
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://1tvnews.af/xmlrpc.php?rsd"/>
+        <meta name="generator" content="WordPress 6.4.3"/>
+        <link rel="canonical" href="https://1tvnews.af/"/>
+        <link rel='shortlink' href='https://1tvnews.af/'/>
+        <link rel="alternate" type="application/json+oembed" href="https://1tvnews.af/wp-json/oembed/1.0/embed?url=https%3A%2F%2F1tvnews.af%2F"/>
+        <link rel="alternate" type="text/xml+oembed" href="https://1tvnews.af/wp-json/oembed/1.0/embed?url=https%3A%2F%2F1tvnews.af%2F&#038;format=xml"/>
+        <link rel="icon" href="https://1tvnews.af/wp-content/uploads/2020/09/cropped-logo-32x32.png" sizes="32x32"/>
+        <link rel="icon" href="https://1tvnews.af/wp-content/uploads/2020/09/cropped-logo-192x192.png" sizes="192x192"/>
+        <link rel="apple-touch-icon" href="https://1tvnews.af/wp-content/uploads/2020/09/cropped-logo-180x180.png"/>
+        <meta name="msapplication-TileImage" content="https://1tvnews.af/wp-content/uploads/2020/09/cropped-logo-270x270.png"/>
+        <style type="text/css" id="wp-custom-css">
+            .no-touch a img {
+                opacity: 1 !important
+            }
+
+            .copyrights-text {
+                visibility: hidden;
+            }
+        </style>
+        <style type="text/css" title="dynamic-css" class="options-output">
+            body {
+                color: #8e8e8e;
+            }
+        </style>
+        <style type="text/css">
+            .header > .inner, .header .logo {
+                line-height: 154px;
+                height: 154px;
+            }
+
+            /* Category background */
+        </style>
+    </head>
+    <body class="home page-template-default page page-id-4277 both-sidebars-right both-sidebars fade-imgs-in-appear navigation_highlight_ancestor ticker_has_live_time time_in_twelve_format both-sides-true" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div class="boxed-wrap clearfix">
+            <div id="header-wrapper">
+                <div class="topbar">
+                    <div class="inner">
+                        <div class="top-left-content">
+                            <ul id="menu-top-menu-en" class="top-nav mom_visibility_desktop">
+                                <li id="menu-item-4326" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4326">
+                                    <a href="https://1tvnews.af/" aria-current="page">English</a>
+                                </li>
+                                <li id="menu-item-4329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4329">
+                                    <a href="#">|</a>
+                                </li>
+                                <li id="menu-item-4327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4327">
+                                    <a href="https://www.1tvnews.af/fa/%d8%b5%d9%81%d8%ad%d9%87-%d9%86%d8%ae%d8%b3%d8%aa/">فارسی &#8211;دری</a>
+                                </li>
+                                <li id="menu-item-4330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4330">
+                                    <a href="#">|</a>
+                                </li>
+                                <li id="menu-item-4328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4328">
+                                    <a href="https://www.1tvnews.af/ps/%da%a9%d9%88%d8%b1%d9%be%d8%a7%da%bc%d9%87/">پښتو</a>
+                                </li>
+                            </ul>
+                            <div class="mom_visibility_device device-top-menu-wrap">
+                                <div class="top-menu-holder">
+                                    <i class="fa-icon-reorder mh-icon"></i>
+                                </div>
+                                <ul id="menu-top-menu-en-1" class="device-top-nav">
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4326">
+                                        <a href="https://1tvnews.af/" aria-current="page">English</a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4329">
+                                        <a href="#">|</a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4327">
+                                        <a href="https://www.1tvnews.af/fa/%d8%b5%d9%81%d8%ad%d9%87-%d9%86%d8%ae%d8%b3%d8%aa/">فارسی &#8211;دری</a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4330">
+                                        <a href="#">|</a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4328">
+                                        <a href="https://www.1tvnews.af/ps/%da%a9%d9%88%d8%b1%d9%be%d8%a7%da%bc%d9%87/">پښتو</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--tb left-->
+                        <div class="top-right-content">
+                            <ul class="mom-social-icons">
+                                <li class="twitter">
+                                    <a target="_blank" class="vector_icon" href="https://twitter.com/TEFAorg">
+                                        <i class="fa-icon-twitter"></i>
+                                    </a>
+                                </li>
+                                <li class="facebook">
+                                    <a target="_blank" class="vector_icon" href="https://www.facebook.com/TEFACSO">
+                                        <i class="fa-icon-facebook "></i>
+                                    </a>
+                                </li>
+                                <li class="youtube">
+                                    <a target="_blank" class="vector_icon" href="https://www.youtube.com/channel/UCSYXJqOVZpHtpumt_q837xg">
+                                        <i class="fa-icon-youtube"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!--tb right-->
+                    </div>
+                </div>
+                <!--topbar-->
+                <header class="header " itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+                    <div class="inner">
+                        <div class="logo">
+                            <h1>
+                                <a href="https://1tvnews.af">
+                                    <img src="https://1tvnews.af/wp-content/themes/goodnews5/images/logo-blue.png" alt="1TVNews.af" width="241" height="60"/>
+                                    <img class="mom_retina_logo" src="https://1tvnews.af/wp-content/themes/goodnews5/images/retina_logo-blue.png" width="241" height="60" alt="1TVNews.af"/>
+                                </a>
+                            </h1>
+                        </div>
+                        <div class="header-right">
+                            <div class="mom-e3lanat-wrap  ">
+                                <div class="mom-e3lanat " style="">
+                                    <div class="mom-e3lanat-inner"></div>
+                                </div>
+                                <!--Mom ads-->
+                            </div>
+                        </div>
+                        <!--header right-->
+                        <div class="clear"></div>
+                    </div>
+                </header>
+            </div>
+            <!--header wrap-->
+            <nav id="navigation" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation" class="dd-effect-slide ">
+                <div class="navigation-inner">
+                    <div class="inner">
+                        <ul id="menu-english-main-menu" class="main-menu mom_visibility_desktop">
+                            <li id="menu-item-4283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4277 current_page_item mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/">HOME</a>
+                            </li>
+                            <li id="menu-item-4284" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/category/afghanistan/">AFGHANISTAN</a>
+                            </li>
+                            <li id="menu-item-4289" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/category/world/">WORLD</a>
+                            </li>
+                            <li id="menu-item-4288" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/category/sports/">SPORTS</a>
+                            </li>
+                            <li id="menu-item-4287" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/category/health/">HEALTH</a>
+                            </li>
+                            <li id="menu-item-8567" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/category/investigative-reports-2/">INVESTIGATIVE REPORTS</a>
+                            </li>
+                            <li id="menu-item-4407" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/category/arts/">ARTS</a>
+                            </li>
+                            <li id="menu-item-4408" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/category/technology/">TECHNOLOGY</a>
+                            </li>
+                            <li id="menu-item-4406" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/about-us/">ABOUT US</a>
+                            </li>
+                            <li id="menu-item-4405" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-0">
+                                <a href="https://1tvnews.af/contact-us/">CONTACT US</a>
+                            </li>
+                        </ul>
+                        <div class="device-menu-wrap mom_visibility_device">
+                            <div id="menu-holder" class="device-menu-holder">
+                                <i class="fa-icon-align-justify mh-icon"></i>
+                                <span class="the_menu_holder_area">
+                                    <i class="dmh-icon"></i>
+                                    Menu
+                                </span>
+                                <i class="mh-caret"></i>
+                            </div>
+                            <ul id="menu-english-main-menu-1" class="device-menu mom_visibility_device">
+                                <li id="menu-item-4283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4277 current_page_item mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/">HOME</a>
+                                </li>
+                                <li id="menu-item-4284" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/category/afghanistan/">AFGHANISTAN</a>
+                                </li>
+                                <li id="menu-item-4289" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/category/world/">WORLD</a>
+                                </li>
+                                <li id="menu-item-4288" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/category/sports/">SPORTS</a>
+                                </li>
+                                <li id="menu-item-4287" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/category/health/">HEALTH</a>
+                                </li>
+                                <li id="menu-item-8567" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/category/investigative-reports-2/">INVESTIGATIVE REPORTS</a>
+                                </li>
+                                <li id="menu-item-4407" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/category/arts/">ARTS</a>
+                                </li>
+                                <li id="menu-item-4408" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/category/technology/">TECHNOLOGY</a>
+                                </li>
+                                <li id="menu-item-4406" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/about-us/">ABOUT US</a>
+                                </li>
+                                <li id="menu-item-4405" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-0">
+                                    <a href="https://1tvnews.af/contact-us/">CONTACT US</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-buttons">
+                            <span class="nav-button nav-search">
+                                <i class="fa-icon-search"></i>
+                            </span>
+                            <div class="nb-inner-wrap search-wrap border-box">
+                                <div class="nb-inner sw-inner">
+                                    <div class="search-form mom-search-form">
+                                        <form method="get" action="https://1tvnews.af">
+                                            <input class="sf" type="text" placeholder="Search ..." autocomplete="off" name="s">
+                                            <button class="button" type="submit">
+                                                <i class="fa-icon-search"></i>
+                                            </button>
+                                        </form>
+                                        <span class="sf-loading">
+                                            <img src="https://1tvnews.af/wp-content/themes/goodnews5/images/ajax-search-nav.gif" alt="loading..." width="16" height="16">
+                                        </span>
+                                    </div>
+                                    <div class="ajax_search_results"></div>
+                                    <!--ajax search results-->
+                                </div>
+                                <!--sw inner-->
+                            </div>
+                            <!--search wrap-->
+                        </div>
+                        <!--nav-buttons-->
+                    </div>
+                </div>
+                <!--nav inner-->
+            </nav>
+            <!--Navigation-->
+            <div class="boxed-content-wrapper clearfix">
+                <div class="nav-shaddow"></div>
+                <div style="margin-top:-17px; margin-bottom:20px;"></div>
+                <div class="inner">
+                    <div class="breaking-news">
+                        <div class="the_ticker">
+                            <div class="bn-title">
+                                <span>NEWS</span>
+                            </div>
+                            <div class="news-ticker " data-timeout="5000">
+                                <ul>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/19/08/2021/9245/">IMF blocks Afghanistan’s access to reserve funds</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/14/08/2021/9237/">President Ghani vows to prevent further instability, displacement</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/11/08/2021/9229/">Biden says does not regret Afghanistan pullout decision</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/10/08/2021/9220/">Kabul says Islamabad did not share complete information on Silsila Alikhel case</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/10/08/2021/9214/">US continues talks with Pakistan on safe havens: Pentagon</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/09/08/2021/9211/">20 children killed, 130 more injured in Kandahar in 72 hours: UNICEF</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/09/08/2021/9209/">Afghanistan &#8217;s Abdullah to visit Qatar for peace meetings</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/09/08/2021/9201/">Senator warns of possible sanctions against Pakistan over Taliban support</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/07/08/2021/9194/">US sends B-52s to bombard Taliban in Afghanistan</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa-icon-double-angle-right"></i>
+                                        <a href="https://1tvnews.af/06/08/2021/9189/">Afghanistan at dangerous turning point: UN envoy</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!--news ticker-->
+                        </div>
+                        <span class="current_time">
+                            <span></span>
+                        </span>
+                    </div>
+                    <!--breaking news-->
+                </div>
+                <div class="inner">
+                    <div class="main_container">
+                        <div class="main-col">
+                            <div class="category-title"></div>
+                            <div class="base-box page-wrap">
+                                <div class="entry-content">
+                                    <p>
+                                    <div class="feature-slider base-box nav-thumbs  new-style  " data-speed="600" data-timeout="4000" data-sanimation="" data-easing="easeInOutCubic" data-rndn="880" data-animation_new="fade" data-animation_in="" data-animation_out="fadeOut" data-autoplay="true" data-items="6" data-thumbs_event="click">
+                                        <div class="fs-drection-nav fs-dnav-880">
+                                            <span class="fsd-prev">
+                                                <i class="fa-icon-angle-left"></i>
+                                            </span>
+                                            <span class="fsd-next">
+                                                <i class="fa-icon-angle-right"></i>
+                                            </span>
+                                        </div>
+                                        <div class="fslides fs-880">
+                                            <div class="fslide post-9245 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="0">
+                                                <a href="https://1tvnews.af/19/08/2021/9245/">
+                                                    <img class="lazy lazy-hidden" fetchpriority="high" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-610x380.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-610x380.jpg" alt="IMF blocks Afghanistan’s access to reserve funds" width="610" height="380">
+                                                    <noscript>
+                                                        <img fetchpriority="high" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-610x380.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-610x380.jpg" alt="IMF blocks Afghanistan’s access to reserve funds" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/19/08/2021/9245/">IMF blocks Afghanistan’s access to reserve funds</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9237 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="1">
+                                                <a href="https://1tvnews.af/14/08/2021/9237/">
+                                                    <img class="lazy lazy-hidden" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-610x380.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-610x380.jpg" alt="President Ghani vows to prevent further instability, displacement" width="610" height="380">
+                                                    <noscript>
+                                                        <img decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-610x380.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-610x380.jpg" alt="President Ghani vows to prevent further instability, displacement" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/14/08/2021/9237/">President Ghani vows to prevent further instability, displacement</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9229 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="2">
+                                                <a href="https://1tvnews.af/11/08/2021/9229/">
+                                                    <img class="lazy lazy-hidden" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-22-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-22-610x380.jpeg" alt="Biden says does not regret Afghanistan pullout decision" width="610" height="380">
+                                                    <noscript>
+                                                        <img decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-22-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-22-610x380.jpeg" alt="Biden says does not regret Afghanistan pullout decision" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/11/08/2021/9229/">Biden says does not regret Afghanistan pullout decision</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9220 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="3">
+                                                <a href="https://1tvnews.af/10/08/2021/9220/">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-19.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-19.jpeg" alt="Kabul says Islamabad did not share complete information on Silsila Alikhel case" width="610" height="380">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-19.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-19.jpeg" alt="Kabul says Islamabad did not share complete information on Silsila Alikhel case" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/10/08/2021/9220/">Kabul says Islamabad did not share complete information on Silsila Alikhel case</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9214 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="4">
+                                                <a href="https://1tvnews.af/10/08/2021/9214/">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-18-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-18-610x380.jpeg" alt="US continues talks with Pakistan on safe havens: Pentagon" width="610" height="380">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-18-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-18-610x380.jpeg" alt="US continues talks with Pakistan on safe havens: Pentagon" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/10/08/2021/9214/">US continues talks with Pakistan on safe havens: Pentagon</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9211 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="5">
+                                                <a href="https://1tvnews.af/09/08/2021/9211/">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-14-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-14-610x380.jpeg" alt="20 children killed, 130 more injured in Kandahar in 72 hours: UNICEF" width="610" height="380">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-14-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-14-610x380.jpeg" alt="20 children killed, 130 more injured in Kandahar in 72 hours: UNICEF" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/09/08/2021/9211/">20 children killed, 130 more injured in Kandahar in 72 hours: UNICEF</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9201 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="6">
+                                                <a href="https://1tvnews.af/09/08/2021/9201/">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-11-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-11-610x380.jpeg" alt="Senator warns of possible sanctions against Pakistan over Taliban support" width="610" height="380">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-11-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-11-610x380.jpeg" alt="Senator warns of possible sanctions against Pakistan over Taliban support" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/09/08/2021/9201/">Senator warns of possible sanctions against Pakistan over Taliban support</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9194 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="7">
+                                                <a href="https://1tvnews.af/07/08/2021/9194/">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-9-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-9-610x380.jpeg" alt="US sends B-52s to bombard Taliban in Afghanistan" width="610" height="380">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-9-610x380.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-9-610x380.jpeg" alt="US sends B-52s to bombard Taliban in Afghanistan" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/07/08/2021/9194/">US sends B-52s to bombard Taliban in Afghanistan</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                            <div class="fslide post-9189 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="8">
+                                                <a href="https://1tvnews.af/06/08/2021/9189/">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123.png" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123.png" alt="Afghanistan at dangerous turning point: UN envoy" width="610" height="380">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123.png" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123.png" alt="Afghanistan at dangerous turning point: UN envoy" width="610" height="380">
+                                                    </noscript>
+                                                </a>
+                                                <div class="slide-caption fs-caption-alt nav-is-thumbs">
+                                                    <h2>
+                                                        <a href="https://1tvnews.af/06/08/2021/9189/">Afghanistan at dangerous turning point: UN envoy</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="fs-image-nav fc-nav-880">
+                                            <span class="fs-prev">
+                                                <i class="enotype-icon-arrow-left5"></i>
+                                            </span>
+                                            <span class="fs-next">
+                                                <i class="enotype-icon-arrow-right5"></i>
+                                            </span>
+                                            <div class="fs-thumbs">
+                                                <div class="fs-thumb" class="post-9245 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="0">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-90x60.jpg" alt="IMF blocks Afghanistan’s access to reserve funds" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-90x60.jpg" alt="IMF blocks Afghanistan’s access to reserve funds" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9237 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="1">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-90x60.jpg" alt="President Ghani vows to prevent further instability, displacement" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-90x60.jpg" alt="President Ghani vows to prevent further instability, displacement" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9229 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="2">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-22-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-22-90x60.jpeg" alt="Biden says does not regret Afghanistan pullout decision" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-22-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-22-90x60.jpeg" alt="Biden says does not regret Afghanistan pullout decision" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9220 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="3">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-19-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-19-90x60.jpeg" alt="Kabul says Islamabad did not share complete information on Silsila Alikhel case" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-19-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-19-90x60.jpeg" alt="Kabul says Islamabad did not share complete information on Silsila Alikhel case" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9214 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="4">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-18-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-18-90x60.jpeg" alt="US continues talks with Pakistan on safe havens: Pentagon" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-18-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-18-90x60.jpeg" alt="US continues talks with Pakistan on safe havens: Pentagon" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9211 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="5">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-14-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-14-90x60.jpeg" alt="20 children killed, 130 more injured in Kandahar in 72 hours: UNICEF" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-14-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-14-90x60.jpeg" alt="20 children killed, 130 more injured in Kandahar in 72 hours: UNICEF" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9201 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="6">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-11-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-11-90x60.jpeg" alt="Senator warns of possible sanctions against Pakistan over Taliban support" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-11-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-11-90x60.jpeg" alt="Senator warns of possible sanctions against Pakistan over Taliban support" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9194 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="7">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-9-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-9-90x60.jpeg" alt="US sends B-52s to bombard Taliban in Afghanistan" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-9-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-9-90x60.jpeg" alt="US sends B-52s to bombard Taliban in Afghanistan" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                                <div class="fs-thumb" class="post-9189 post type-post status-publish format-standard has-post-thumbnail category-afghanistan" data-i="8">
+                                                    <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123-90x60.png" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123-90x60.png" alt="Afghanistan at dangerous turning point: UN envoy" width="90" height="60">
+                                                    <noscript>
+                                                        <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123-90x60.png" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/20210806_204123-90x60.png" alt="Afghanistan at dangerous turning point: UN envoy" width="90" height="60">
+                                                    </noscript>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--fearure slider-->
+                                    <!--News box two-->
+                                    <div class="news-box  base-box nb-style2">
+                                        <header class="nb-header">
+                                            <h2 class="nb-title" style=";">
+                                                <a href="https://1tvnews.af/category/afghanistan/">AFGHANISTAN</a>
+                                            </h2>
+                                        </header>
+                                        <!--nb header-->
+                                        <div class="nb-content">
+                                            <div class="recent-news">
+                                                <article class="post-9245 post type-post status-publish format-standard has-post-thumbnail category-afghanistan">
+                                                    <div class="rn-title">
+                                                        <h3>
+                                                            <a href="https://1tvnews.af/19/08/2021/9245/">IMF blocks Afghanistan’s access to reserve funds</a>
+                                                        </h3>
+                                                        <div class="mom-post-meta nb-item-meta">
+                                                            <span datetime="2021-08-19T04:48:00+00:00" class="entry-date">August 19, 2021</span>
+                                                            <span class="category">
+                                                                In: <a href="https://1tvnews.af/category/afghanistan/" rel="category tag">AFGHANISTAN</a>
+                                                            </span>
+                                                            <a href="https://1tvnews.af/19/08/2021/9245/#respond" class="comment_number">No comments</a>
+                                                        </div>
+                                                        <!--meta-->
+                                                    </div>
+                                                    <!--rn title-->
+                                                    <div class="news-image">
+                                                        <a href="https://1tvnews.af/19/08/2021/9245/">
+                                                            <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-274x173.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-610x380.jpg" alt="IMF blocks Afghanistan’s access to reserve funds" width="274" height="173">
+                                                            <noscript>
+                                                                <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-274x173.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/GY5LKY5NC5NTZLM3SIWJG6YQMQ-610x380.jpg" alt="IMF blocks Afghanistan’s access to reserve funds" width="274" height="173">
+                                                            </noscript>
+                                                        </a>
+                                                        <span class="post-format-icon"></span>
+                                                    </div>
+                                                    <div class="news-summary">
+                                                        <P>
+                                                            The International Monetary Fund said on Wednesday it suspended Afghanistan &#8217;s access to IMF resources, including around $440 million in new monetary reserves, due to a lack of clarity over the country &#8217;s government after the Talib...				   
+                                                            <a href="https://1tvnews.af/19/08/2021/9245/" class="read-more-link">
+                                                                Read more <i class="fa-icon-double-angle-right"></i>
+                                                            </a>
+                                                        </P>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                            <!--recent news-->
+                                            <div class="older-articles">
+                                                <ul class="two-cols">
+                                                    <li class="post-9237 post type-post status-publish format-standard has-post-thumbnail category-afghanistan">
+                                                        <a href="https://1tvnews.af/14/08/2021/9237/">
+                                                            <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-180x120.jpg" alt="President Ghani vows to prevent further instability, displacement" width="90" height="60">
+                                                            <noscript>
+                                                                <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/Screenshot_20210814-133642_Facebook-180x120.jpg" alt="President Ghani vows to prevent further instability, displacement" width="90" height="60">
+                                                            </noscript>
+                                                        </a>
+                                                        <div class="details has-feature-image">
+                                                            <h4>
+                                                                <a href="https://1tvnews.af/14/08/2021/9237/">President Ghani vows to prevent further instability, displacement</a>
+                                                            </h4>
+                                                            <div class="mom-post-meta nb-item-meta">
+                                                                <span datetime="2021-08-14T08:17:13+00:00" class="entry-date">August 14, 2021</span>
+                                                                <a href="https://1tvnews.af/14/08/2021/9237/#respond" class="comment_number">No comments</a>
+                                                            </div>
+                                                            <!--meta-->
+                                                        </div>
+                                                    </li>
+                                                    <li class="post-9229 post type-post status-publish format-standard has-post-thumbnail category-afghanistan">
+                                                        <a href="https://1tvnews.af/11/08/2021/9229/">
+                                                            <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-22-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-22-180x120.jpeg" alt="Biden says does not regret Afghanistan pullout decision" width="90" height="60">
+                                                            <noscript>
+                                                                <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-22-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-22-180x120.jpeg" alt="Biden says does not regret Afghanistan pullout decision" width="90" height="60">
+                                                            </noscript>
+                                                        </a>
+                                                        <div class="details has-feature-image">
+                                                            <h4>
+                                                                <a href="https://1tvnews.af/11/08/2021/9229/">Biden says does not regret Afghanistan pullout decision</a>
+                                                            </h4>
+                                                            <div class="mom-post-meta nb-item-meta">
+                                                                <span datetime="2021-08-11T04:23:11+00:00" class="entry-date">August 11, 2021</span>
+                                                                <a href="https://1tvnews.af/11/08/2021/9229/#respond" class="comment_number">No comments</a>
+                                                            </div>
+                                                            <!--meta-->
+                                                        </div>
+                                                    </li>
+                                                    <li class="post-9220 post type-post status-publish format-standard has-post-thumbnail category-afghanistan">
+                                                        <a href="https://1tvnews.af/10/08/2021/9220/">
+                                                            <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-19-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-19-180x120.jpeg" alt="Kabul says Islamabad did not share complete information on Silsila Alikhel case" width="90" height="60">
+                                                            <noscript>
+                                                                <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-19-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-19-180x120.jpeg" alt="Kabul says Islamabad did not share complete information on Silsila Alikhel case" width="90" height="60">
+                                                            </noscript>
+                                                        </a>
+                                                        <div class="details has-feature-image">
+                                                            <h4>
+                                                                <a href="https://1tvnews.af/10/08/2021/9220/">Kabul says Islamabad did not share complete information on Silsila Alikhel case</a>
+                                                            </h4>
+                                                            <div class="mom-post-meta nb-item-meta">
+                                                                <span datetime="2021-08-10T09:03:36+00:00" class="entry-date">August 10, 2021</span>
+                                                                <a href="https://1tvnews.af/10/08/2021/9220/#respond" class="comment_number">No comments</a>
+                                                            </div>
+                                                            <!--meta-->
+                                                        </div>
+                                                    </li>
+                                                    <li class="post-9214 post type-post status-publish format-standard has-post-thumbnail category-afghanistan">
+                                                        <a href="https://1tvnews.af/10/08/2021/9214/">
+                                                            <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/08/images-18-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-18-180x120.jpeg" alt="US continues talks with Pakistan on safe havens: Pentagon" width="90" height="60">
+                                                            <noscript>
+                                                                <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/08/images-18-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/08/images-18-180x120.jpeg" alt="US continues talks with Pakistan on safe havens: Pentagon" width="90" height="60">
+                                                            </noscript>
+                                                        </a>
+                                                        <div class="details has-feature-image">
+                                                            <h4>
+                                                                <a href="https://1tvnews.af/10/08/2021/9214/">US continues talks with Pakistan on safe havens: Pentagon</a>
+                                                            </h4>
+                                                            <div class="mom-post-meta nb-item-meta">
+                                                                <span datetime="2021-08-10T03:23:59+00:00" class="entry-date">August 10, 2021</span>
+                                                                <a href="https://1tvnews.af/10/08/2021/9214/#respond" class="comment_number">No comments</a>
+                                                            </div>
+                                                            <!--meta-->
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--news box-->
+                                    <!--News box two-->
+                                    <!--News box one-->
+                                    <div class="news-box  base-box nb-style1">
+                                        <header class="nb-header">
+                                            <h2 class="nb-title" style=";">
+                                                <a href="https://1tvnews.af/category/world/">WORLD</a>
+                                            </h2>
+                                        </header>
+                                        <!--nb header-->
+                                        <div class="nb-content">
+                                            <div class="recent-news">
+                                                <article class="post-1852 post type-post status-publish format-standard has-post-thumbnail category-world">
+                                                    <div class="rn-title">
+                                                        <h3>
+                                                            <a href="https://1tvnews.af/07/01/2020/1852/">UAE offers 5-year tourist visa</a>
+                                                        </h3>
+                                                        <div class="mom-post-meta nb-item-meta">
+                                                            <span datetime="2020-01-07T07:26:16+00:00" class="entry-date">January 07, 2020</span>
+                                                            <span class="category">
+                                                                In: <a href="https://1tvnews.af/category/world/" rel="category tag">WORLD</a>
+                                                            </span>
+                                                            <a href="https://1tvnews.af/07/01/2020/1852/#respond" class="comment_number">No comments</a>
+                                                        </div>
+                                                        <!--meta-->
+                                                    </div>
+                                                    <!--rn title-->
+                                                    <div class="news-image">
+                                                        <a href="https://1tvnews.af/07/01/2020/1852/">
+                                                            <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2020/01/4826-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/01/4826-610x380.jpg" alt="UAE offers 5-year tourist visa" width="180" height="120">
+                                                            <noscript>
+                                                                <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2020/01/4826-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/01/4826-610x380.jpg" alt="UAE offers 5-year tourist visa" width="180" height="120">
+                                                            </noscript>
+                                                        </a>
+                                                        <span class="post-format-icon"></span>
+                                                    </div>
+                                                    <div class="news-summary">
+                                                        <P>
+                                                            The United Arab Emirates on Monday unveiled plan to issue first multi-entry five-year tourist visa to all nationalities.				   
+                                                            <a href="https://1tvnews.af/07/01/2020/1852/" class="read-more-link">
+                                                                Read more <i class="fa-icon-double-angle-right"></i>
+                                                            </a>
+                                                        </P>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                            <!--recent news-->
+                                            <div class="nb1-older-articles">
+                                                <ul class="two-cols">
+                                                    <li class="post-38 post type-post status-publish format-standard category-world">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/21/06/2019/38/">NYT: Trump approves strikes on Iran, but then pulls back</a>
+                                                    </li>
+                                                    <li class="post-20 post type-post status-publish format-standard category-world">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/13/01/2018/20/">Pakistan says U.S. not contemplating unilateral action in its soil</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--news box-->
+                                    <!--News box one-->
+                                    <!--News box one-->
+                                    <div class="news-box  base-box nb-style1">
+                                        <header class="nb-header">
+                                            <h2 class="nb-title" style=";">
+                                                <span>More News</span>
+                                            </h2>
+                                        </header>
+                                        <!--nb header-->
+                                        <div class="nb-content">
+                                            <div class="recent-news">
+                                                <article class="post-8852 post type-post status-publish format-standard has-post-thumbnail category-ent">
+                                                    <div class="rn-title">
+                                                        <h3>
+                                                            <a href="https://1tvnews.af/07/07/2021/8852/">Bollywood actor Dilip Kumar dies at 98</a>
+                                                        </h3>
+                                                        <div class="mom-post-meta nb-item-meta">
+                                                            <span datetime="2021-07-07T03:50:33+00:00" class="entry-date">July 07, 2021</span>
+                                                            <span class="category">
+                                                                In: <a href="https://1tvnews.af/category/ent/" rel="category tag">Entertainment</a>
+                                                            </span>
+                                                            <a href="https://1tvnews.af/07/07/2021/8852/#respond" class="comment_number">No comments</a>
+                                                        </div>
+                                                        <!--meta-->
+                                                    </div>
+                                                    <!--rn title-->
+                                                    <div class="news-image">
+                                                        <a href="https://1tvnews.af/07/07/2021/8852/">
+                                                            <img class="lazy lazy-hidden" loading="lazy" decoding="async" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/07/images-30-180x120.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/07/images-30-610x380.jpeg" alt="Bollywood actor Dilip Kumar dies at 98" width="180" height="120">
+                                                            <noscript>
+                                                                <img loading="lazy" decoding="async" src="https://1tvnews.af/wp-content/uploads/2021/07/images-30-180x120.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/07/images-30-610x380.jpeg" alt="Bollywood actor Dilip Kumar dies at 98" width="180" height="120">
+                                                            </noscript>
+                                                        </a>
+                                                        <span class="post-format-icon"></span>
+                                                    </div>
+                                                    <div class="news-summary">
+                                                        <P>
+                                                            Dilip Kumar, one of India &#8217;s most popular actors, died on Wednesday morning, his family said. Kumar was 98 and was suffering from illness for some time. Born Mohammed Yusuf Khan in 1922 in Peshawar, now in Pakistan, he was known by the screen name of Dilip Kumar on...				   
+                                                            <a href="https://1tvnews.af/07/07/2021/8852/" class="read-more-link">
+                                                                Read more <i class="fa-icon-double-angle-right"></i>
+                                                            </a>
+                                                        </P>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                            <!--recent news-->
+                                            <div class="nb1-older-articles">
+                                                <ul class="two-cols">
+                                                    <li class="post-8578 post type-post status-publish format-standard has-post-thumbnail category-investigative-reports-2">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/08/06/2021/8578/">Exclusive: Turmoil, coercion and law-breaking in Afghanistan &#8217;s central bank</a>
+                                                    </li>
+                                                    <li class="post-8435 post type-post status-publish format-standard has-post-thumbnail category-sports">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/23/05/2021/8435/">Afghanistan, Pakistan in talks for T20, ODI series in August/September: report</a>
+                                                    </li>
+                                                    <li class="post-8359 post type-post status-publish format-standard">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/04/05/2021/8359/">Afghan president calls on UN to mediate peace talks</a>
+                                                    </li>
+                                                    <li class="post-8068 post type-post status-publish format-standard has-post-thumbnail category-sports">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/08/04/2021/8068/">Afghanistan to play friendly football matches against Indonesia, Singapore</a>
+                                                    </li>
+                                                    <li class="post-7927 post type-post status-publish format-standard has-post-thumbnail category-sports">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/28/03/2021/7927/">British football club sign Afghanistan &#8217;s Maziar Kouhyar</a>
+                                                    </li>
+                                                    <li class="post-7838 post type-post status-publish format-standard has-post-thumbnail">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/18/03/2021/7838/">Bus blast kills three, wounds 11 in Kabul</a>
+                                                    </li>
+                                                    <li class="post-6987 post type-post status-publish format-standard has-post-thumbnail category-sports">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/06/01/2021/6987/">Rashid, Nabi, Mujeeb among stars in Pakistan Cricket League 2021 draft</a>
+                                                    </li>
+                                                    <li class="post-6877 post type-post status-publish format-standard has-post-thumbnail category-sports">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/02/01/2021/6877/">Afghanistan unveil squad for ODI series against Ireland</a>
+                                                    </li>
+                                                    <li class="post-6616 post type-post status-publish format-standard has-post-thumbnail">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/22/12/2020/6616/">Pakistan embassy says implementing measures to facilitate visas for Afghans</a>
+                                                    </li>
+                                                    <li class="post-6037 post type-post status-publish format-standard has-post-thumbnail category-sports">
+                                                        <i class="fa-icon-double-angle-right"></i>
+                                                        <a href="https://1tvnews.af/22/11/2020/6037/">Pakistan wants to host Afghanistan for limited over series next year</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--news box-->
+                                    <!--News box one-->
+</p></div>
+<!-- entry content -->
+</div>
+<!-- base box -->
+</div>
+<!--main column-->
+<div class="sidebar secondary-sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+    <div class="widget momizat-posts">
+        <div class="widget-head">
+            <h3 class="widget-title">
+                <span>Popular News</span>
+            </h3>
+        </div>
+        <div class="mom-posts-widget">
+            <div class="mpw-post">
+                <div class="post-img main-sidebar-element">
+                    <a href="https://1tvnews.af/21/11/2020/6016/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-90x60.jpg" alt="Afghan parliament approves 10 ministerial nominees" width="90" height="60">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-90x60.jpg" alt="Afghan parliament approves 10 ministerial nominees" width="90" height="60">
+                        </noscript>
+                    </a>
+                </div>
+                <div class="post-img sec-sidebar-element">
+                    <a href="https://1tvnews.af/21/11/2020/6016/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-180x120.jpg" alt="Afghan parliament approves 10 ministerial nominees" width="180" height="120">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/weree-1-180x120.jpg" alt="Afghan parliament approves 10 ministerial nominees" width="180" height="120">
+                        </noscript>
+                    </a>
+                    <span class="post-format-icon"></span>
+                </div>
+                <div class="details has-feature-image">
+                    <h4>
+                        <a href="https://1tvnews.af/21/11/2020/6016/">Afghan parliament approves 10 ministerial nominees</a>
+                    </h4>
+                    <div class="mom-post-meta mom-w-meta">
+                        <span datetime="2020-11-21T12:09:35+00:00" class="entry-date">November 21, 2020</span>
+                    </div>
+                </div>
+            </div>
+            <!--//post-->
+            <div class="mpw-post">
+                <div class="post-img main-sidebar-element">
+                    <a href="https://1tvnews.af/01/04/2021/7969/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-90x60.jpg" alt="Afghanistan, Pakistan sign protocol on extension of trade pact" width="90" height="60">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-90x60.jpg" alt="Afghanistan, Pakistan sign protocol on extension of trade pact" width="90" height="60">
+                        </noscript>
+                    </a>
+                </div>
+                <div class="post-img sec-sidebar-element">
+                    <a href="https://1tvnews.af/01/04/2021/7969/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-180x120.jpg" alt="Afghanistan, Pakistan sign protocol on extension of trade pact" width="180" height="120">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/04/20210401_191529-180x120.jpg" alt="Afghanistan, Pakistan sign protocol on extension of trade pact" width="180" height="120">
+                        </noscript>
+                    </a>
+                    <span class="post-format-icon"></span>
+                </div>
+                <div class="details has-feature-image">
+                    <h4>
+                        <a href="https://1tvnews.af/01/04/2021/7969/">Afghanistan, Pakistan sign protocol on extension of trade pact</a>
+                    </h4>
+                    <div class="mom-post-meta mom-w-meta">
+                        <span datetime="2021-04-01T14:34:17+00:00" class="entry-date">April 01, 2021</span>
+                    </div>
+                </div>
+            </div>
+            <!--//post-->
+            <div class="mpw-post">
+                <div class="post-img main-sidebar-element">
+                    <a href="https://1tvnews.af/17/03/2021/7834/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-90x60.jpg" alt="Biden calls May 1 deadline on Afghanistan exit 'tough'" width="90" height="60">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-90x60.jpg" alt="Biden calls May 1 deadline on Afghanistan exit 'tough'" width="90" height="60">
+                        </noscript>
+                    </a>
+                </div>
+                <div class="post-img sec-sidebar-element">
+                    <a href="https://1tvnews.af/17/03/2021/7834/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-180x120.jpg" alt="Biden calls May 1 deadline on Afghanistan exit 'tough'" width="180" height="120">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/03/210316_vod_bidenimmigrationMIX3_hpMain_16x9_992-180x120.jpg" alt="Biden calls May 1 deadline on Afghanistan exit 'tough'" width="180" height="120">
+                        </noscript>
+                    </a>
+                    <span class="post-format-icon"></span>
+                </div>
+                <div class="details has-feature-image">
+                    <h4>
+                        <a href="https://1tvnews.af/17/03/2021/7834/">Biden calls May 1 deadline on Afghanistan exit &#8216;tough &#8217;</a>
+                    </h4>
+                    <div class="mom-post-meta mom-w-meta">
+                        <span datetime="2021-03-17T12:57:53+00:00" class="entry-date">March 17, 2021</span>
+                    </div>
+                </div>
+            </div>
+            <!--//post-->
+            <div class="mpw-post">
+                <div class="post-img main-sidebar-element">
+                    <a href="https://1tvnews.af/10/11/2020/5699/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-90x60.jpg" alt="NDS says it killed an al Qaeda leader in Farah" width="90" height="60">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-90x60.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-90x60.jpg" alt="NDS says it killed an al Qaeda leader in Farah" width="90" height="60">
+                        </noscript>
+                    </a>
+                </div>
+                <div class="post-img sec-sidebar-element">
+                    <a href="https://1tvnews.af/10/11/2020/5699/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-180x120.jpg" alt="NDS says it killed an al Qaeda leader in Farah" width="180" height="120">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-180x120.jpg" data-hidpi="https://1tvnews.af/wp-content/uploads/2020/11/ytytff-180x120.jpg" alt="NDS says it killed an al Qaeda leader in Farah" width="180" height="120">
+                        </noscript>
+                    </a>
+                    <span class="post-format-icon"></span>
+                </div>
+                <div class="details has-feature-image">
+                    <h4>
+                        <a href="https://1tvnews.af/10/11/2020/5699/">NDS says it killed an al Qaeda leader in Farah</a>
+                    </h4>
+                    <div class="mom-post-meta mom-w-meta">
+                        <span datetime="2020-11-10T12:02:46+00:00" class="entry-date">November 10, 2020</span>
+                    </div>
+                </div>
+            </div>
+            <!--//post-->
+            <div class="mpw-post">
+                <div class="post-img main-sidebar-element">
+                    <a href="https://1tvnews.af/04/01/2021/6938/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/01/images-51-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/01/images-51-90x60.jpeg" alt="US military suggests Taliban behind targeted killings in Afghanistan" width="90" height="60">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2021/01/images-51-90x60.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/01/images-51-90x60.jpeg" alt="US military suggests Taliban behind targeted killings in Afghanistan" width="90" height="60">
+                        </noscript>
+                    </a>
+                </div>
+                <div class="post-img sec-sidebar-element">
+                    <a href="https://1tvnews.af/04/01/2021/6938/">
+                        <img class="lazy lazy-hidden" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2021/01/images-51-180x120.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/01/images-51-180x120.jpeg" alt="US military suggests Taliban behind targeted killings in Afghanistan" width="180" height="120">
+                        <noscript>
+                            <img src="https://1tvnews.af/wp-content/uploads/2021/01/images-51-180x120.jpeg" data-hidpi="https://1tvnews.af/wp-content/uploads/2021/01/images-51-180x120.jpeg" alt="US military suggests Taliban behind targeted killings in Afghanistan" width="180" height="120">
+                        </noscript>
+                    </a>
+                    <span class="post-format-icon"></span>
+                </div>
+                <div class="details has-feature-image">
+                    <h4>
+                        <a href="https://1tvnews.af/04/01/2021/6938/">US military suggests Taliban behind targeted killings in Afghanistan</a>
+                    </h4>
+                    <div class="mom-post-meta mom-w-meta">
+                        <span datetime="2021-01-04T07:36:53+00:00" class="entry-date">January 04, 2021</span>
+                    </div>
+                </div>
+            </div>
+            <!--//post-->
+        </div>
+    </div>
+    <div class="widget widget_text">
+        <div class="widget-head">
+            <h3 class="widget-title">
+                <span>ADS</span>
+            </h3>
+        </div>
+        <div class="textwidget">
+            <p>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <br/>
+                <!-- 1TVNewsTopAds -->
+                <br/>
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-0539252942844773" data-ad-slot="9648727771" data-ad-format="auto"></ins>
+                <br/>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </p>
+        </div>
+    </div>
+    <div class="widget widget_text">
+        <div class="widget-head">
+            <h3 class="widget-title">
+                <span>ADS</span>
+            </h3>
+        </div>
+        <div class="textwidget">
+            <p>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <br/>
+                <!-- 1TVNewsTopAds -->
+                <br/>
+                <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-0539252942844773" data-ad-slot="9648727771" data-ad-format="auto"></ins>
+                <br/>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </p>
+        </div>
+    </div>
+</div>
+<!--main sidebar-->
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<!--main container-->
+<div class="sidebar main-sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+    <div class="widget widget_media_image">
+        <div class="widget-head">
+            <h3 class="widget-title">
+                <span>DARI EVENING NEWS</span>
+            </h3>
+        </div>
+        <a href="https://www.youtube.com/watch?v=pWKB21eBGDU&#038;list=PLoKOy73atHGaJ4FRdrJrjpYTb8I8PUIfU&#038;index=1">
+            <img width="307" height="400" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2020/12/5.30-news.png" class="lazy lazy-hidden image wp-image-6577  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" title="DARI EVENING NEWS" decoding="async" loading="lazy" srcset="" data-srcset="https://1tvnews.af/wp-content/uploads/2020/12/5.30-news.png 307w, https://1tvnews.af/wp-content/uploads/2020/12/5.30-news-230x300.png 230w" sizes="(max-width: 307px) 100vw, 307px"/>
+            <noscript>
+                <img width="307" height="400" src="https://1tvnews.af/wp-content/uploads/2020/12/5.30-news.png" class="image wp-image-6577  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" title="DARI EVENING NEWS" decoding="async" loading="lazy" srcset="https://1tvnews.af/wp-content/uploads/2020/12/5.30-news.png 307w, https://1tvnews.af/wp-content/uploads/2020/12/5.30-news-230x300.png 230w" sizes="(max-width: 307px) 100vw, 307px"/>
+            </noscript>
+        </a>
+    </div>
+    <div class="widget widget_media_image">
+        <div class="widget-head">
+            <h3 class="widget-title">
+                <span>NEWS AND ANALYSIS</span>
+            </h3>
+        </div>
+        <a href="https://www.youtube.com/watch?v=pWKB21eBGDU&#038;list=PLoKOy73atHGaJ4FRdrJrjpYTb8I8PUIfU&#038;index=1">
+            <img width="307" height="400" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://1tvnews.af/wp-content/uploads/2020/12/10PM-News.png" class="lazy lazy-hidden image wp-image-6578  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="" data-srcset="https://1tvnews.af/wp-content/uploads/2020/12/10PM-News.png 307w, https://1tvnews.af/wp-content/uploads/2020/12/10PM-News-230x300.png 230w" sizes="(max-width: 307px) 100vw, 307px"/>
+            <noscript>
+                <img width="307" height="400" src="https://1tvnews.af/wp-content/uploads/2020/12/10PM-News.png" class="image wp-image-6578  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://1tvnews.af/wp-content/uploads/2020/12/10PM-News.png 307w, https://1tvnews.af/wp-content/uploads/2020/12/10PM-News-230x300.png 230w" sizes="(max-width: 307px) 100vw, 307px"/>
+            </noscript>
+        </a>
+    </div>
+    <div class="widget momizat-twitter">
+        <div class="widget-head">
+            <h3 class="widget-title">
+                <span>@1tvnewsaf</span>
+            </h3>
+        </div>
+        <ul class="twiter-list">
+            <p>Check your twitter API's keys
+            <p>
+        </ul>
+    </div>
+    <div class="widget momizat-facebook">
+        <div class="widget-head">
+            <h3 class="widget-title">
+                <span>@1tvnewsaf</span>
+            </h3>
+        </div>
+        <div class="mom_facebook_likebox" style="background:#fff;border:1px solid #e5e5e5;">
+            <iframe class="lazy lazy-hidden" data-lazy-type="iframe" data-src="//www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/1tvnewsaf&amp;width=263&amp;height=400&amp;colorscheme=dark&amp;show_faces=true&amp;show_border=false&amp;stream=true&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:263px; height:400px;" allowTransparency="true"></iframe>
+            <noscript>
+                <iframe src="//www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/1tvnewsaf&amp;width=263&amp;height=400&amp;colorscheme=dark&amp;show_faces=true&amp;show_border=false&amp;stream=true&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:263px; height:400px;" allowTransparency="true"></iframe>
+            </noscript>
+        </div>
+        <!--like_box_footer-->
+    </div>
+</div>
+<!--main sidebar-->
+<div class="clear"></div>
+</div>
+<!--main inner-->
+</div>
+<!--content boxed wrapper-->
+<div class="copyrights-area">
+    <div class="inner">
+        <p class="copyrights-text">
+            2018 , All rights reserved ©  <a href="http://www.tefa.org.af/">TEFA - Transparent Election Foundation of Afghanistan</a>
+        </p>
+    </div>
+</div>
+<div class="clear"></div>
+</div>
+<!--Boxed wrap-->
+<a href="#" class="scrollToTop button">
+    <i class="enotype-icon-arrow-up"></i>
+</a>
+<script type="text/javascript" src="https://1tvnews.af/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+    /* <![CDATA[ */
+    var wpcf7 = {
+        "api": {
+            "root": "https:\/\/1tvnews.af\/wp-json\/",
+            "namespace": "contact-form-7\/v1"
+        }
+    };
+    /* ]]> */
+</script>
+<script type="text/javascript" src="https://1tvnews.af/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://1tvnews.af/wp-content/themes/goodnews5/js/plugins.js?ver=1.0" id="plugins-js"></script>
+<script type="text/javascript" id="Momizat-main-js-js-extra">
+    /* <![CDATA[ */
+    var momAjaxL = {
+        "url": "https:\/\/1tvnews.af\/wp-admin\/admin-ajax.php",
+        "nonce": "2a417cf8ce",
+        "success": "check your email to complete subscription",
+        "error": "Already subscribed",
+        "error2": "Email invalid",
+        "werror": "Enter a valid city name.",
+        "nomore": "No More Posts",
+        "homeUrl": "https:\/\/1tvnews.af",
+        "viewAll": "View All",
+        "noResults": "Sorry, no posts matched your criteria",
+        "bodyad": ""
+    };
+    /* ]]> */
+</script>
+<script type="text/javascript" src="https://1tvnews.af/wp-content/themes/goodnews5/js/main.js?ver=1.0" id="Momizat-main-js-js"></script>
+<script type="text/javascript" src="https://1tvnews.af/wp-content/themes/goodnews5/js/jquery.prettyPhoto.js?ver=1.0" id="prettyphoto-js"></script>
+<script type="text/javascript" id="jquery-lazyloadxt-js-extra">
+    /* <![CDATA[ */
+    var a3_lazyload_params = {
+        "apply_images": "1",
+        "apply_videos": "1"
+    };
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js?ver=2.7.2" id="jquery-lazyloadxt-js"></script>
+<script type="text/javascript" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=2.7.2" id="jquery-lazyloadxt-srcset-js"></script>
+<script type="text/javascript" id="jquery-lazyloadxt-extend-js-extra">
+    /* <![CDATA[ */
+    var a3_lazyload_extend_params = {
+        "edgeY": "0",
+        "horizontal_container_classnames": ""
+    };
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//1tvnews.af/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=2.7.2" id="jquery-lazyloadxt-extend-js"></script>
+</body>
+</html>
